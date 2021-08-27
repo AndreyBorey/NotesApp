@@ -31,7 +31,7 @@
     </fragment>
     <fragment
         android:id="@+id/startFragment"
-        android:name="com.andreyborey.notes.screens.StartFragment"
+        android:name="com.andreyborey.notes.screens.start.StartFragment"
         android:label="fragment_start"
         tools:layout="@layout/fragment_start" >
         <action
